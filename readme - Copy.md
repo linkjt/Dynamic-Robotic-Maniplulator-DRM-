@@ -7,13 +7,20 @@ Lead Dev + Building + Code:
 Linkjt9 (John Falciglia)
 
 Acknoledgements:
-Thx to everybody that helped with this jouerny, Saatvik, Tsz-Cheun
+Thx to everybody that helped with this jouerny, Saatvik, Tsz-Cheun, and the WPCPXC team
 In addition, I would like to thank the entrie Cemetech Community :)
 
 Nerd Stuff (If your just looking for Fun Stuff or smth, skip to ____):
 System: Arduino UNO R3
-Deved OS: 
-Tested OS's: 
-Recommended OS: 
 Language: C++
-Packages/Libraries Used: 
+Packages/Libraries Used: Wire.h, Adafruit_Sensor.h, and Adafruit_ADXL345_U.h
+Eletric Parts Required: 
+- 28BYJ-48 Stepper Motor
+- 28BYJ-48 Stepepr Motor Driver
+- ADXL 345 Accelerometer
+- Arduino UNO R3 Expansion Board
+Pins Used:
+- 4 GND Pins
+- 4 5V Pins
+- Analog Pins 2,3,4,5,6,7,8,9,10,11,12,13
+- Input Pins A4, A5
