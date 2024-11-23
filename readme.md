@@ -24,3 +24,8 @@ Pins Used:
 - 4 5V Pins
 - Analog Pins 2,3,4,5,6,7,8,9,10,11,12,13
 - Input Pins A4, A5
+
+Varibles:
+*Independent:
+- degreeturn; determains the amount of tilt on the accelerometer for the microcontoller to regocnize and produce motor movement
+- rpm; the amount of delay between each motor signal, lower will make the motors spin faster, but they are also harder to control
